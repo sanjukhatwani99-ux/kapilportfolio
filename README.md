@@ -9,7 +9,7 @@ just simple, readable code that's easy to extend.
 - **Next.js 14** (App Router)
 - **React** (function components only)
 - **Plain CSS** (`app/globals.css` — no Tailwind/Bootstrap)
-- No external UI libraries
+- No external UI libraries 
 
 ## Folder Structure
 
